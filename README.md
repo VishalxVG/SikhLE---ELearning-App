@@ -1,6 +1,6 @@
 # SikhLe
 
-## Project Title: Language Learning Application
+## Project Title: E-Learning Application
 
 ### Project Bio:
 SikhLe is an innovative e-learning application designed to empower learners of all ages and backgrounds with the knowledge they need to thrive in today's fast-paced world. With a commitment to accessibility, diversity, and excellence in education, SikhLe offers a wide range of courses and resources to support lifelong learning.
@@ -34,10 +34,8 @@ The development of this Language Learning Application adhered to agile principle
 | Login Page  | Sign Up Page  |
 | ![HomePage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/e42852c1-31cc-42ab-b7af-d75415a2a59c) | ![HomePage1](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/b3d483ac-3774-4361-8634-5781f54e9bee) |
 | Home Page  | Home Page  |
-| --- | --- |
 | ![DrawerPage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/74798386-7a1a-4559-a0ee-8c1690d4bd83) | ![DownloadPage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/e489f5f1-e89c-48f5-ba0f-cc57775a782e)|
 | Drawer Page  |Download Page |
-| --- | --- |
 |![ProfilePage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/a5b25c1b-c8ba-4266-b9e6-a2b419f89407) |
 
 
@@ -49,8 +47,4 @@ The development of this Language Learning Application adhered to agile principle
 
 
 **Conclusion:**
-
-
-The Language Learning Application is an exciting venture into the world of language acquisition, offering an interactive and accessible platform for learners of all levels. Its user-centric design, robust feature set, and integration of emerging technologies make it a valuable tool for anyone seeking to expand their language skills. This project embodies the synergy between education and technology, opening doors to new linguistic horizons.
-
-By fostering a passion for language learning and promoting cultural exchange, the Language Learning Application represents a significant contribution to the field of digital education and serves as a testament to the boundless potential of technology
+SikhLe is not just an eLearning app; it's a bridge to understanding and appreciating Sikhism's profound teachings and cultural heritage. With its user-friendly interface, comprehensive content, and vibrant community, SikhLe empowers individuals from all walks of life to connect with the Sikh faith, fostering mutual respect, tolerance, and a deeper appreciation for diversity in today's globalized world. Through SikhLe, the journey to learning and understanding Sikhism has never been more accessible, engaging, and enlightening.
