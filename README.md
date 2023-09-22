@@ -34,8 +34,12 @@ The development of this Language Learning Application adhered to agile principle
 | Login Page  | Sign Up Page  |
 | ![HomePage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/e42852c1-31cc-42ab-b7af-d75415a2a59c) | ![HomePage1](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/b3d483ac-3774-4361-8634-5781f54e9bee) |
 | Home Page  | Home Page  |
+| --- | --- |
 | ![DrawerPage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/74798386-7a1a-4559-a0ee-8c1690d4bd83) | ![DownloadPage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/e489f5f1-e89c-48f5-ba0f-cc57775a782e)|
-| Translator Page  |Download Page |
+| Drawer Page  |Download Page |
+| --- | --- |
+|![ProfilePage](https://github.com/VishalxVG/SikhLE---ELearning-App/assets/104559557/a5b25c1b-c8ba-4266-b9e6-a2b419f89407) |
+
 
 
 
