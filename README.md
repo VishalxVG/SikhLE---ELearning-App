@@ -47,4 +47,4 @@ The development of this Language Learning Application adhered to agile principle
 
 
 **Conclusion:**
-In conclusion, our Elearning app represents the future of education, offering a dynamic and interactive platform that transcends traditional boundaries. With its diverse range of courses, user-friendly interface, and powerful features, our app empowers learners to take control of their educational journey. It fosters a culture of continuous learning, adaptability, and accessibility, ensuring that knowledge is within reach for everyone, regardless of their background or location.
+- In conclusion, our Elearning app represents the future of education, offering a dynamic and interactive platform that transcends traditional boundaries. With its diverse range of courses, user-friendly interface, and powerful features, our app empowers learners to take control of their educational journey. It fosters a culture of continuous learning, adaptability, and accessibility, ensuring that knowledge is within reach for everyone, regardless of their background or location.
